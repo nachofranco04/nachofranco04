@@ -3,6 +3,10 @@
   <img src="https://img.freepik.com/psd-gratis/diseno-decorativo-divisor-lineas_23-2151358261.jpg?semt=ais_hybrid&w=740&q=80" width="140" style="border-radius:20px;" />
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="140" style="border-radius:20px;" />
+</p>
+
 <h1 align="center">Hola 👋, soy Nacho Franco</h1>
 <h3 align="center">Estudiante de Ciencia de Datos e Inteligencia Artificial | Apasionado por ML, Big Data, redes neuronales, análisis de datos...</h3>
 
