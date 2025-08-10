@@ -3,6 +3,12 @@
   <img src="https://img.freepik.com/psd-gratis/diseno-decorativo-divisor-lineas_23-2151358261.jpg?semt=ais_hybrid&w=740&q=80" style="width:100%; height:auto; border-radius:20px;" />
 </p>
 
+<div style="text-align:center; background-color:#0d1117; padding:10px;">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"
+       style="width:100%; height:auto;" />
+</div>
+
+
 <p align="center">
   <div style="width:100%; height:6px; background:linear-gradient(90deg, #00C9FF, #92FE9D); border-radius:10px;"></div>
 </p>
