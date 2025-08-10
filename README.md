@@ -1,6 +1,6 @@
 <!-- Encabezado centrado -->
 <p align="center">
-  <img src="https://img.freepik.com/psd-gratis/diseno-decorativo-divisor-lineas_23-2151358261.jpg?semt=ais_hybrid&w=740&q=80" width="140" style="border-radius:20px;" />
+  <img src="https://img.freepik.com/psd-gratis/diseno-decorativo-divisor-lineas_23-2151358261.jpg?semt=ais_hybrid&w=740&q=80" style="width:100%; height:auto; border-radius:20px;" />
 </p>
 
 <p align="center">
