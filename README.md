@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <div style="width:100%; height:6px; background:linear-gradient(90deg, #00C9FF, #92FE9D); border-radius:10px;"></div>
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="140" style="border-radius:20px;" />
 </p>
 
