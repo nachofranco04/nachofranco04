@@ -43,8 +43,8 @@
 ---
 
 ## 📫 Cómo contactarme
-[![Email](https://img.shields.io/badge/Email-tu@email.com-blue?style=flat-square&logo=gmail)](mailto:nachofrancoalm@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nachofrancoalm@gmail.com-blue?style=flat-square&logo=gmail)](mailto:nachofrancoalm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ignacio-franco-almend%C3%A1rez-638962343/)
-[![GitHub](https://img.shields.io/badge/GitHub-TU--USUARIO-lightgrey?style=flat-square&logo=github)](https://github.com/nachofranco04)
+[![GitHub](https://img.shields.io/badge/GitHub-nachofranco04-lightgrey?style=flat-square&logo=github)](https://github.com/nachofranco04)
 
 ---
